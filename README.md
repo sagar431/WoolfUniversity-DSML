@@ -1,3 +1,6 @@
+![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=1723680000&v=beta&t=5JDC_tpxmDGqO9WDnunKcvZ1tQMtPxv_azM9K1Ra1V8)
+
+
 # 🌟 Woolf University - Master's in Data Science and Machine Learning 🌟
 
 Welcome to the repository for the Master's program in **Data Science and Machine Learning** at Woolf University! This repo contains all course materials, assignments, projects, and resources to assist you throughout your journey.
